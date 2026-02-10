@@ -38,7 +38,7 @@ Installation
 
 Clone the repository
 
-git clone [https://github.com/your-username/aura-design-assistant.git](https://github.com/your-username/aura-design-assistant.git)
+git clone [https://github.com/nikhil-sys410/aura-design-assistant.git](https://github.com/your-username/aura-design-assistant.git)
 cd aura-design-assistant
 
 
@@ -90,4 +90,4 @@ Styling: Custom CSS (Glassmorphism, CSS Animations, Google Fonts)
 
 Distributed under the MIT License. See LICENSE for more information.
 
-Built with 💜 by [Your Name]
+Built with 💜 by Nikhil
