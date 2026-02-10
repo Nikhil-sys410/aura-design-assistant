@@ -4,7 +4,8 @@ AI-Orchestrated Merchandising & Ideation Engine.
 Accelerate your design workflow by turning abstract trend concepts into high-fidelity visual prompts and mood boards instantly.
 
 📸 Interface Preview
-![Uploading image.png…]()
+<img width="945" height="391" alt="image" src="https://github.com/user-attachments/assets/66fe9152-9a7b-4117-acd0-fa482ec598cc" />
+
 
 
 📖 About The Project
