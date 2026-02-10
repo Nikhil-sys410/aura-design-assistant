@@ -1,92 +1,92 @@
-<img width="950" height="403" alt="image" src="https://github.com/user-attachments/assets/54d0e77c-bfce-4a02-a090-851c518ff3bb" />AURA | GenAI Design Assistant ⚡
+⚡ AURA | GenAI Design Studio
 
-AURA is a hyper-modern, AI-powered design orchestration engine built for fashion merchandisers, creative directors, and digital artists. It accelerates the ideation process by turning abstract trend concepts into high-fidelity generative art prompts and mood board elements.
+AI-Orchestrated Merchandising & Ideation Engine.
+Accelerate your design workflow by turning abstract trend concepts into high-fidelity visual prompts and mood boards instantly.
 
 📸 Interface Preview
-
-<img width="950" height="403" alt="image" src="https://github.com/user-attachments/assets/12d2680a-4aac-4b79-aa83-add43a7465eb" />
-
+![Uploading image.png…]()
 
 
+📖 About The Project
 
-✨ Features
+AURA is an avant-garde design assistant built for fashion merchandisers, creative directors, and digital artists. In the fast-paced world of fashion, translating abstract trend signals into concrete visual concepts is a bottleneck.
 
-Generative Prompt Engineering: Automatically crafts complex, high-fidelity prompts optimized for Midjourney v6, Stable Diffusion, and Dall-E 3 based on simple keywords.
+AURA acts as a creative co-pilot, synthesizing category inputs (like Streetwear or Haute Couture) with mood keywords to generate Midjourney-ready prompts and Market Trend Analysis.
 
-Trend Intelligence (Simulated): Provides market confidence scores and trend analysis for categories like Streetwear, Couture, and Sustainable Fashion.
+✨ Key Features
 
-Hyper-Modern UI:
+🎨 Generative Prompt Engineering: Automatically crafts complex, high-fidelity prompts optimized for Midjourney v6, Stable Diffusion, and Dall-E 3.
 
-Neo-Glassmorphism: Frosted glass cards, neon gradients, and animated backgrounds.
+📈 Trend Intelligence: Simulates market confidence scores and trend forecasting data.
 
-High Contrast Mode: Optimized typography for readability in dark environments.
+💎 Hyper-Modern UI: * Neo-Glassmorphism: Frosted glass cards and deep gradients.
+
+High-Contrast Mode: Optimized typography for readability in dark environments.
 
 Responsive Bento Grid: A fluid layout that adapts to screen sizes.
 
-🚀 Installation & Setup
+🚀 Getting Started
 
-Follow these steps to run the application locally.
+Follow these steps to set up the project locally on your machine.
 
-1. Clone the Repository
+Prerequisites
 
-git clone 
+Python 3.8 or higher installed.
+
+Installation
+
+Clone the repository
+
+git clone [https://github.com/your-username/aura-design-assistant.git](https://github.com/your-username/aura-design-assistant.git)
 cd aura-design-assistant
 
 
-2. Install Dependencies
-
-You only need streamlit to run this project.
+Install dependencies
 
 pip install streamlit
 
 
-3. Run the Application
-
-You can run the app using one of the following commands:
-
-Standard Method:
+Run the application
+Option A (Standard):
 
 streamlit run aura_app.py
 
 
-Fallback Method (if "streamlit" command is not found):
+Option B (If 'streamlit' command is not found):
 
 python -m streamlit run aura_app.py
 
 
+🎮 How to Use
+
+Launch: Open the URL provided in your terminal (usually http://localhost:8501).
+
+Select Category: Choose a vertical from the dropdown (e.g., Streetwear, Avant-Garde).
+
+Input Trends: Enter specific textures, eras, or moods (e.g., "Liquid Metal, Bioluminescence, Y2K Glitch").
+
+Initialize: Click the INITIALIZE button to trigger the AI orchestration.
+
+Result: Copy the generated "Prompt Sequence" and use it in your preferred AI Art Generator.
+
 📂 Project Structure
 
 aura-design-assistant/
-│
-├── aura_app.py        # Main application file
+├── aura_app.py        # Main application logic and UI
 ├── README.md          # Project documentation
-└── requirements.txt   # Dependencies (Optional, contains 'streamlit')
+└── .gitignore         # System files to ignore
 
-
-🎮 How to Use
-
-Launch the App: Open the link provided in your terminal (usually http://localhost:8501).
-
-Select Category: Choose a fashion vertical (e.g., Streetwear, Luxury).
-
-Input Keywords: Type in textures, moods, or eras (e.g., "Liquid Metal, Y2K, Bioluminescence").
-
-Generate: Click INITIALIZE.
-
-View Results: Copy the generated AI prompt to your favorite image generator and view the market analysis.
 
 🛠️ Tech Stack
 
+Frontend & Logic: Streamlit
+
 Language: Python
 
-Framework: Streamlit
-
-Styling: Custom CSS (Glassmorphism & Neon aesthetic)
-
-Fonts: Google Fonts (Syncopate, Inter)
+Styling: Custom CSS (Glassmorphism, CSS Animations, Google Fonts)
 
 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Distributed under the MIT License. See LICENSE for more information.
 
-Built with 💜 by Nikhil
+Built with 💜 by [Your Name]
